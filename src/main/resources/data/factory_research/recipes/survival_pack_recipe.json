@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "factory_research:research_table"
+    }
+  ],
+  "result": {
+    "item": "factory_research:survival_pack",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "item.factory_research.survival_pack": "Survival Pack",
+  "item.factory_research.automation_pack": "Automation Pack",
+  "block.factory_research.research_table": "Research Table",
+  "block.factory_research.research_lab": "Research Lab",
+  "creativetab.factory_research_tab": "Factory Research"
+}
